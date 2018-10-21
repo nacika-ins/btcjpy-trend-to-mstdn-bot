@@ -1,0 +1,10 @@
+[package]
+name = "price_increase"
+version = "0.1.0"
+authors = ["nacika <nacika.inscatolare@gmail.com>"]
+
+[dependencies]
+reqwest = "*"
+serde_json = "1.0"
+toml = "*"
+mammut = "0.11.0"
